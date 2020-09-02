@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="test" size="1.000000 1.481270" />
+    <ImageTarget name="H" size="1.000000 0.808244" />
+    <ImageTarget name="Sr" size="1.000000 0.810036" />
+    <ImageTarget name="Na" size="1.000000 0.810036" />
+    <ImageTarget name="Ba" size="1.000000 0.810036" />
+    <ImageTarget name="Cu" size="1.000000 0.810036" />
+    <ImageTarget name="K" size="1.000000 0.810036" />
+    <ImageTarget name="Li" size="1.000000 0.810036" />
+    <ImageTarget name="Ca" size="1.000000 0.810036" />
   </Tracking>
 </QCARConfig>
